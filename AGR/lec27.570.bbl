@@ -1,0 +1,65 @@
+\begin{thebibliography}{1}
+\providecommand{\url}[1]{#1}
+\csname url@rmstyle\endcsname
+\providecommand{\newblock}{\relax}
+\providecommand{\bibinfo}[2]{#2}
+\providecommand\BIBentrySTDinterwordspacing{\spaceskip=0pt\relax}
+\providecommand\BIBentryALTinterwordstretchfactor{4}
+\providecommand\BIBentryALTinterwordspacing{\spaceskip=\fontdimen2\font plus
+\BIBentryALTinterwordstretchfactor\fontdimen3\font minus
+  \fontdimen4\font\relax}
+\providecommand\BIBforeignlanguage[2]{{%
+\expandafter\ifx\csname l@#1\endcsname\relax
+\typeout{** WARNING: IEEEtran.bst: No hyphenation pattern has been}%
+\typeout{** loaded for the language `#1'. Using the pattern for}%
+\typeout{** the default language instead.}%
+\else
+\language=\csname l@#1\endcsname
+\fi
+#2}}
+
+\bibitem{_genomerearrangements}
+V.~Bafna and P.~A. Pevzner, ``Genome rearrangements and sorting by reversals,''
+  1993.
+
+
+\bibitem{Walks}
+\BIBentryALTinterwordspacing
+S.~Borgatti, ``Relations, graphs and matrices formal representation of social
+  network data,'' 2008. [Online]. Available:
+  \url{http://www.analytictech.com/networks/graphs.htm}
+\BIBentrySTDinterwordspacing
+
+
+\bibitem{Hannenhalli95genomesequence}
+S.~Hannenhalli, C.~Chappey, E.~V. Koonin, and P.~A. Pevzner, ``Genome sequence
+  comparison and scenarios for gene rearrangements: A test case,''
+  \emph{Genomics}, vol.~30, pp. 299--311, 1995.
+
+
+\bibitem{Hannenhalli95transformingcabbage}
+S.~Hannenhalli and P.~Pevzner, ``Transforming cabbage into turnip (polynomial
+  algorithm for sorting signed permutations by reversals),'' in \emph{Journal
+  of the ACM}.\hskip 1em plus 0.5em minus 0.4em\relax ACM Press, 1995, pp.
+  178--189.
+
+
+\bibitem{Kececioglu95exactand}
+J.~Kececioglu and D.~Sankoff, ``Exact and approximation algorithms for sorting
+  by reversals, with application to genome rearrangement,'' 1995.
+
+
+\bibitem{Hurdles}
+\BIBentryALTinterwordspacing
+S.~Mneimneh, ``Computational biology - lecture 16: Genome rearrangements,
+  sorting by reversals,'' pp. 6--7. [Online]. Available:
+  \url{http://www.cs.hunter.cuny.edu/~saad/courses/compbio/lectures/lecture16.pdf}
+\BIBentrySTDinterwordspacing
+
+
+\bibitem{1375Algo}
+M.~K. Piotr~Berman, Sridhar~Hannenhalli, ``1.375-approximation algorithm for
+  sorting by reversals,'' vol. 2461, pp. 200--210, 2002.
+
+
+\end{thebibliography}

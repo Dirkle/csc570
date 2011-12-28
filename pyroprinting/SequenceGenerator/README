@@ -1,0 +1,59 @@
+Part 1.1
+
+Last Updated:
+12/9/2011
+
+Authors:
+Allen Dunlea, 
+Ryan Hnarkis, 
+Tyler Yero
+
+Running Code:
+The code takes the following arguments to run
+
+[directory in] [directory out] [primer sequence] [length to snip (~97-104 bases)]
+[generation mode: (K)eyword,(H)istogram, (U)niform, (E)xhaustive] [number of samples to generate]  [pattern (Ex. 4,1,1,1)]
+
+all of them must be present in order for the code to run and will print an error message if all 7 arguments are not present.
+There is not much error checking on the arguments currently so make sure you know what you are doing when you run the program
+or you might have unexpected results.
+
+The following is a description of each argument:
+[directory in] : The directory containing the files that contain opterons to sample with.
+[directory out] : The directory where the output will be stored (Files will be created like exhaustive.out, keyword.out, etc...)
+[primer sequence] : Used to parse the files in the in directory. The primer sequence will be searched for and the following
+                    characters will be returned.
+[length to snip] : This is the number of characters that are returned after the primer sequence is found (we usually used around 100)
+[generation mode] : The mode to generate with. See files or the report for a further description of the different types.
+[number of samples to generate] : The number of samples that will be generated using random sampling. If (E)xhaustive has been
+                                  selected as the genertion mode this number will be ignored.
+[pattern] : This is the pattern that will be used to generate samples. The pattern denotes what ratio each opteron should be put in.
+            For instance, with a pattern 3,4 3 opterons of one type will be put in the sample followed by 4 copies of a different opteron.
+            Note that these numbers need to add up to 7 and no spaces can be used.
+      
+Examples:
+SampleOriginalFiles output GGAACCTGCGGTTGGATCAC 104 K 6 3,3,1
+
+
+
+
+All code is released under the MIT license (unless otherwise specified):
+Copyright (c) 2011 SuperGene Predictor
+
+Permission is hereby granted, free of charge, to any person obtaining a copy 
+of this software and associated documentation files (the "Software"), to deal 
+in the Software without restriction, including without limitation the rights 
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell 
+copies of the Software, and to permit persons to whom the Software is 
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in 
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS 
+OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE 
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER 
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, 
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE 
+SOFTWARE.

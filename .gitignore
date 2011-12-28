@@ -1,0 +1,10 @@
+# Compiled Python Code
+*.pyc
+
+# Temp files
+.*.swp
+*.*~
+
+# Previous student's Work
+pyroprinting/resources/genome-markup
+pyroprinting/CPLOP.pdf

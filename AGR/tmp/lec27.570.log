@@ -1,0 +1,239 @@
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=latex 2011.11.27)  5 DEC 2011 20:19
+entering extended mode
+ Source specials enabled.
+ %&-line parsing enabled.
+**lec27.570.tex
+(./lec27.570.tex
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, loaded.
+(/usr/share/texmf-texlive/tex/latex/base/article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/share/texmf-texlive/tex/latex/base/size10.clo
+File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texmf-texlive/tex/latex/graphics/epsfig.sty
+Package: epsfig 1999/02/16 v1.7a (e)psfig emulation (SPQR)
+
+(/usr/share/texmf-texlive/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-texlive/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/share/texmf-texlive/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-texlive/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/etc/texmf/tex/latex/config/graphics.cfg
+File: graphics.cfg 2009/08/28 v1.8 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: dvips.def on input line 91.
+
+(/usr/share/texmf-texlive/tex/latex/graphics/dvips.def
+File: dvips.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+\epsfxsize=\dimen105
+\epsfysize=\dimen106
+)
+(/usr/share/texmf-texlive/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2009/06/22 v3.00
+
+(/usr/share/texmf-texlive/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2009/06/22 v3.00 Basic AMSFonts support
+\@emptytoks=\toks15
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 96.
+))
+(/usr/share/texmf-texlive/tex/latex/subfig/subfig.sty
+Package: subfig 2005/06/28 ver: 1.3 subfig package
+
+(/usr/share/texmf-texlive/tex/latex/caption/caption.sty
+Package: caption 2009/10/09 v3.1k Customizing captions (AR)
+
+(/usr/share/texmf-texlive/tex/latex/caption/caption3.sty
+Package: caption3 2009/10/09 v3.1k caption3 kernel (AR)
+\captionmargin=\dimen107
+\captionmargin@=\dimen108
+\captionwidth=\dimen109
+\caption@indent=\dimen110
+\caption@parindent=\dimen111
+\caption@hangindent=\dimen112
+)
+\c@ContinuedFloat=\count87
+)
+\c@KVtest=\count88
+\sf@farskip=\skip43
+\sf@captopadj=\dimen113
+\sf@capskip=\skip44
+\sf@nearskip=\skip45
+\c@subfigure=\count89
+\c@subfigure@save=\count90
+\c@lofdepth=\count91
+\c@subtable=\count92
+\c@subtable@save=\count93
+\c@lotdepth=\count94
+\sf@top=\skip46
+\sf@bottom=\skip47
+)
+(/usr/share/texmf-texlive/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count95
+\float@exts=\toks16
+\float@box=\box26
+\@float@everytoks=\toks17
+\@floatcapt=\box27
+) (./lec27.570.aux)
+\openout1 = `lec27.570.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+Package caption Info: Begin \AtBeginDocument code.
+Package caption3 Info: subfig package 1.2 or 1.3 is loaded.
+LaTeX Info: Redefining \subref on input line 10.
+Package caption Info: float package is loaded.
+Package caption Info: End \AtBeginDocument code.
+\c@problem=\count96
+LaTeX Font Info:    Try loading font information for U+msa on input line 20.
+
+(/usr/share/texmf-texlive/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2009/06/22 v3.00 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 20.
+
+(/usr/share/texmf-texlive/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2009/06/22 v3.00 AMS symbols B
+)
+Overfull \hbox (46.39865pt too wide) in paragraph at lines 20--29
+ [][] 
+ []
+
+
+Overfull \hbox (1.30505pt too wide) in paragraph at lines 39--46
+[]\OT1/cmr/m/n/10 Reducing a min-i-mum sort by re-ver-sals (MIN-SBR) [[]] to a 
+purely graph-theoretic
+ []
+
+[1
+
+]
+File: resources/figure_2_c_d.eps Graphic file (type eps)
+ <resources/figure_2_c_d.eps>
+Overfull \hbox (12.29103pt too wide) in paragraph at lines 104--108
+[][][] 
+ []
+
+File: resources/figure_3.eps Graphic file (type eps)
+<resources/figure_3.eps>
+Overfull \hbox (37.43263pt too wide) in paragraph at lines 127--128
+[][][] 
+ []
+
+[2] [3]
+File: resources/hurdles.eps Graphic file (type eps)
+ <resources/hurdles.eps>
+File: resources/fortresses.eps Graphic file (type eps)
+ <resources/fortresses.eps>
+File: resources/reversals.eps Graphic file (type eps)
+
+<resources/reversals.eps>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 205.
+
+(/usr/share/texmf-texlive/tex/latex/base/omscmr.fd
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 205.
+ [4]
+File: resources/splits.eps Graphic file (type eps)
+ <resources/splits.eps>
+Overfull \hbox (58.09984pt too wide) in paragraph at lines 247--248
+[][][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[5]
+File: resources/padding.eps Graphic file (type eps)
+ <resources/padding.eps>
+Overfull \hbox (84.99992pt too wide) in paragraph at lines 272--274
+[][][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 315--315
+
+ []
+
+
+Overfull \hbox (95.25798pt too wide) in paragraph at lines 315--316
+[][] 
+ []
+
+[6] [7]
+Overfull \hbox (14.35965pt too wide) in paragraph at lines 378--387
+[]$\OT1/cmr/m/n/10 [0\OML/cmm/m/it/10 ; []; \OT1/cmr/m/n/10 4\OML/cmm/m/it/10 ;
+ \OT1/cmr/m/n/10 3\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 20\OML/cmm/m/it/10 ; \OT1/
+cmr/m/n/10 21\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 22\OML/cmm/m/it/10 ; \OT1/cmr/m
+/n/10 23]$ 
+ []
+
+
+Overfull \hbox (14.35965pt too wide) in paragraph at lines 388--396
+[]$\OT1/cmr/m/n/10 [0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT
+1/cmr/m/n/10 2\OML/cmm/m/it/10 ; []; \OT1/cmr/m/n/10 20\OML/cmm/m/it/10 ; \OT1/
+cmr/m/n/10 21\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 22\OML/cmm/m/it/10 ; \OT1/cmr/m
+/n/10 23]$ 
+ []
+
+[8] (./lec27.570.bbl
+Overfull \hbox (11.5007pt too wide) in paragraph at lines 54--58
+\OT1/cmr/m/n/10 http://www.cs.hunter.cuny.edu/ saad/courses/compbio/lectures/le
+cture16.pdf 
+ []
+
+) [9] (./lec27.570.aux) ) 
+Here is how much of TeX's memory you used:
+ 2052 strings out of 495062
+ 30507 string characters out of 1182643
+ 94906 words of memory out of 3000000
+ 5235 multiletter control sequences out of 15000+50000
+ 8757 words of font info for 33 fonts, out of 3000000 for 9000
+ 28 hyphenation exceptions out of 8191
+ 44i,7n,42p,379b,271s stack positions out of 5000i,500n,10000p,200000b,50000s
+
+Output written on lec27.570.dvi (9 pages, 24460 bytes).
